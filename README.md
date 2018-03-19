@@ -6,5 +6,5 @@
 
 
 
-[npm-image]: https://img.shields.io/npm/v/koa.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/npm.svg
 [npm-url]: https://www.npmjs.com/package/lazy-worker
