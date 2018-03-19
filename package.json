@@ -1,10 +1,10 @@
 {
   "name": "lazy-worker",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.0",
+  "description": "A lazy worker need to have a rest between jobs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gaokun/lazy-worker/issues"
   },
-  "homepage": "https://github.com/gaokun/lazy-worker#readme"
+  "homepage": "https://github.com/gaokun/lazy-worker#readme",
+  "dependencies": {
+    "q": "^1.5.1"
+  }
 }
