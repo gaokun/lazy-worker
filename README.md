@@ -1,6 +1,6 @@
 # lazy-worker
 
-  [![NPM version][npm-image]][npm-url]
+  ![npm (scoped)](https://img.shields.io/npm/v/@cycle/core.svg)
   ![npm](https://img.shields.io/npm/l/express.svg)
 
   Just for fun
