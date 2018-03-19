@@ -9,6 +9,8 @@ A lazy worker need to <b>`have a rest`</b> between jobs.
 ## What scenario need lazy-worker?
 > Like a web spider, target website has firewall to forbid we access it frequently in short time.
 
+## Installation
+`npm install lazy-worker`
 
 ## How to use it?
 
@@ -40,7 +42,10 @@ worker.run().then((msg) => {
 ```
 
 ## Contact Me
-  Email: kytogether@vip.qq.com
+Email: kytogether@vip.qq.com
+
+## License
+Released under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
 
 [npm-image]: https://img.shields.io/npm/v/@cycle/core.svg
 [npm-url]: https://www.npmjs.com/package/lazy-worker
