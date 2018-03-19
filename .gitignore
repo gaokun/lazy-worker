@@ -1,0 +1,7 @@
+.project
+node_modules
+
+*.log
+.idea/
+*.map
+
