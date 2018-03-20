@@ -7,7 +7,9 @@
 A lazy worker needs to <b>`have a rest`</b> between jobs.
 
 ## What scenario need lazy-worker?
-> Like a web spider, target website has firewall to forbid we access it frequently in short time.
+> 1. Like a web spider, target website has firewall to forbid we access it frequently in short time.
+
+> 2. Some jobs you do not want do them quickly.
 
 ## Installation
 `npm install lazy-worker`
