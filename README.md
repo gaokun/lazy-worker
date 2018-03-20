@@ -4,7 +4,7 @@
   ![npm](https://img.shields.io/npm/l/express.svg)
 
 ## What is lazy-wokrer?
-A lazy worker need to <b>`have a rest`</b> between jobs.
+A lazy worker needs to <b>`have a rest`</b> between jobs.
 
 ## What scenario need lazy-worker?
 > Like a web spider, target website has firewall to forbid we access it frequently in short time.
